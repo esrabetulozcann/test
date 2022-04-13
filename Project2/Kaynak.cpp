@@ -9,5 +9,6 @@ int main()
 	cout << sayi;
 	cout << "Merhaba";
 	cout << "Selamun aleykum";
+	cout << "Aleykum selam";
 	return 0;
 }
